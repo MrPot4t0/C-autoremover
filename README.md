@@ -1,3 +1,3 @@
 # C# autoremover
-# auto remove all c# files from your pc
+auto remove all c# files from your pc
 
